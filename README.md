@@ -1,30 +1,45 @@
-Public Health Case Surveillance Dashboard
-Overview
-This project features a comprehensive Public Health Case Surveillance Dashboard developed in Microsoft Excel. It is designed to monitor, track, and analyze fatality cases over time to support data-driven decision-making by epidemiologists, public health officials, and policymakers.
+# Public Health Case Surveillance Dashboard
+
+## Overview
+
+This project features a comprehensive **Public Health Case Surveillance Dashboard** developed in Microsoft Excel. It is designed to monitor, track, and analyze fatality cases over time to support data-driven decision-making by epidemiologists, public health officials, and policymakers.
 
 The dashboard provides critical insights into mortality trends, geographic disease distribution, and at-risk populations by visualizing key epidemiological data. It aims to facilitate timely interventions and improve public health outcomes.
 
-Key Features
-Time Trend Analysis: Visualize monthly death trends to detect patterns and changes over time
+---
 
-Geographic Visualization: Map case distribution across different regions to identify hotspots
+## Key Features
 
-Demographic Breakdown: Analyze cases by age, sex, and location for targeted insights
+- **Time Trend Analysis:**  
+  Visualize monthly death trends to detect patterns and changes over time.
 
-Epidemiological Metrics: Calculate case fatality rates and other vital statistics
+- **Geographic Visualization:**  
+  Map case distribution across different regions to identify hotspots.
 
-High-Risk Alerts: Automatically flag outbreak spikes using conditional formatting
+- **Demographic Breakdown:**  
+  Analyze cases by age, sex, and location for targeted insights.
 
-Interactive Filters: Easily filter data by year to focus on specific timeframes
+- **Epidemiological Metrics:**  
+  Calculate case fatality rates and other vital statistics.
 
-Tools & Technologies
-Microsoft Excel
+- **High-Risk Alerts:**  
+  Automatically flag outbreak spikes using conditional formatting.
 
-PivotTables and Charts
+- **Interactive Filters:**  
+  Easily filter data by year to focus on specific timeframes.
 
-Slicers for interactive filtering
+---
 
-Conditional Formatting for alerting
+## Tools & Technologies
 
-Optional: Power Query for advanced data transformation and cleaning
+- **Microsoft Excel**  
+  - PivotTables and Charts  
+  - Slicers for interactive filtering  
+  - Conditional Formatting for alerting
+
+- **Optional:** Power Query for advanced data transformation and cleaning.
+
+---
+
+Feel free to explore, customize, and extend this dashboard to suit your public health data analysis needs.
 
