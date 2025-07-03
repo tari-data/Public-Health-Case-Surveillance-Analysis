@@ -1,32 +1,30 @@
-# Public Health Case Surveillance Analysis
-#Introduction
-This project presents a public health case surveillance dashboard built in Microsoft Excel, designed to monitor, track, and analyze cases of fatality over time.  The goal is to support  decision-making for epidemiologists, public health officials, and policy makers by visualizing trends, highlighting hotspots, and identifying at-risk populations. The data provides insights into death rates, disease spread in different regions and case fatality reports. 
+Public Health Case Surveillance Dashboard
+Overview
+This project features a comprehensive Public Health Case Surveillance Dashboard developed in Microsoft Excel. It is designed to monitor, track, and analyze fatality cases over time to support data-driven decision-making by epidemiologists, public health officials, and policymakers.
 
-⸻
-🔍 Features:
-	•	📅 Time trend analysis: Monthly breakdown of death trends
-	•	🌍 Geographic visualization: Region-wise case distribution
-	•	👥 Demographic breakdown: Age, sex, location
-	•	📈 Epidemiological metrics: Case fatality report
-	•	⚠ High-risk alerts: Conditional formatting to flag outbreak spikes
-	•	📌 Interactive filters (Years)
- 🧰 Tools Used
-	•	Microsoft Excel (PivotTables, Charts, Slicers, Conditional Formatting)
-	•	Optional: Power Query for data transformation
+The dashboard provides critical insights into mortality trends, geographic disease distribution, and at-risk populations by visualizing key epidemiological data. It aims to facilitate timely interventions and improve public health outcomes.
 
-⸻
+Key Features
+Time Trend Analysis: Visualize monthly death trends to detect patterns and changes over time
 
-📌 Use Cases:
-	•	Early detection of disease outbreaks
-	•	Monitoring health intervention effectiveness
-	•	Identifying regional disparities in health outcomes
-	•	Supporting policy planning and resource allocation
+Geographic Visualization: Map case distribution across different regions to identify hotspots
 
-⸻
+Demographic Breakdown: Analyze cases by age, sex, and location for targeted insights
 
-📈 Sample KPIs (Key Performance Indicators):
-	•	Total Reports
-	•	Fatality Rate 
-	•	Case Fatality Reports (CFR)
-	•	Most Affected Regions
-	•	Gender with Highest Risk
+Epidemiological Metrics: Calculate case fatality rates and other vital statistics
+
+High-Risk Alerts: Automatically flag outbreak spikes using conditional formatting
+
+Interactive Filters: Easily filter data by year to focus on specific timeframes
+
+Tools & Technologies
+Microsoft Excel
+
+PivotTables and Charts
+
+Slicers for interactive filtering
+
+Conditional Formatting for alerting
+
+Optional: Power Query for advanced data transformation and cleaning
+
