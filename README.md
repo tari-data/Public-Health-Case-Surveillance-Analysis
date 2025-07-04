@@ -1,4 +1,4 @@
-# Public Health Case Surveillance Dashboard
+# Public Health Case Surveillance Analysis
 
 ## Overview
 
