@@ -13,7 +13,7 @@ Public health surveillance in Nigeria continues to face significant challenges, 
 
 ---
 
-### Data Analysis
+## Data Analysis
 
 ---
 
@@ -41,6 +41,32 @@ The top 3 diseases by total deaths are Malaria (1,031), Rubella (1,026) and Ebol
 ---
 ### Location Dashboard
 The highest count of cases was recorded in Oyo state (1042 cases) with Borno state having the longest report day of 5.14days. 512 deaths in Rivers, indicating either a severe outbreat or late reporting and 531 confirmed cases in Kano, showing strong detection but possibly still high transmission!
+
+---
+
+## Recommendations 
+
+---
+
+🏥 1. Enhance Early Detection & Reporting Systems
+Target reporting delay reduction to <48 hours, especially for high-fatality diseases like Malaria, Rubella, and Ebola. Implement automated reporting systems or mobile surveillance apps to reduce lag time.
+
+🎯 2. Focus Interventions on Youth Populations
+Young individuals are disproportionately affected by fatalities. School-based health campaigns, immunization drives, and protection initiatives should be prioritized for this age group.
+
+📍 3. Deploy Region-Specific Interventions
+Increase testing centers and contact tracing capacity to identify sources while launching intensive health education campaigns to promote early reporting and prevention. Community surveillance should also be leveraged involving local healthcare workers for early symptom reporting.
+
+🧪 4. Improve Confirmation Rates
+With only 50% of cases confirmed, invest in more testing facilities and faster diagnostic tools. Ensure cases aren't going unverified, especially in rural areas.
+
+🚻 5. Equalize Gender-Based Health Outreach
+While fatality rates are equal by gender, ensure balanced access to care, especially in regions with cultural or systemic bias.
+
+📢 6. Policy Advocacy and Capacity Building
+Present these findings to health ministries and emergency response teams and push for investment in data infrastructure, real-time dashboards, and field response units.
+
+
 
 
 ## Tools Used
