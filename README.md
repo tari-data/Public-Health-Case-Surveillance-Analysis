@@ -13,13 +13,13 @@ Public health surveillance in Nigeria continues to face significant challenges, 
 
 ---
 
-## Data Analysis
+### Data Analysis
 
 ---
 
-## 📊 General Statistics
-## - Total Cases Reported: 10,000 cases
-## - Case Fatality Rate: 49.75% — nearly 1 in 2 reported cases result in death, which is alarmingly high.
+### 📊 General Statistics
+### - Total Cases Reported: 10,000 cases
+### - Case Fatality Rate: 49.75% — nearly 1 in 2 reported cases result in death, which is alarmingly high.
 ## - Confirmed Cases: 50.33%, indicating only half of reported cases are officially confirmed.
 ## - Average Reporting Delay: 5.03 days, which could significantly hinder timely outbreak response.
 
