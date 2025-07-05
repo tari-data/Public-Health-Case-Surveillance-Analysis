@@ -13,6 +13,13 @@ Public health surveillance in Nigeria continues to face significant challenges, 
 
 ---
 
+## 📊 Interactive Excel Dashboard
+
+You can view the live dashboard here:  
+👉 [Open Dashboard in Excel Online](https://1drv.ms/x/c/83c892835b4ca30b/IQQgy2wXuL88SIieBC-6mO2GAdMPX073tq6ePfOY65a3b_0?em=2&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True)
+
+---
+
 ## Data Analysis
 
 ---
